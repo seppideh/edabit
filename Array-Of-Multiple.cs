@@ -1,6 +1,6 @@
 using System;
 
-namespace ArrayOfMultiple
+namespace ArrayOfMultiple 
 {
   class Program
   {
